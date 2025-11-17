@@ -39,20 +39,15 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
-
-
-
 a.   KVL:
  <img width="1554" height="859" alt="Screenshot 2025-11-12 154321" src="https://github.com/user-attachments/assets/824c2d65-1990-4372-a987-00742b1e18ee" />
 
 
 
 b.  KCL:
- 
-<img width="1573" height="883" alt="Screenshot 2025-11-12 160528" src="https://github.com/user-attachments/assets/27cdb5d0-430d-4145-b56b-6e703956fe25" />
+ <img width="1573" height="883" alt="Screenshot 2025-11-12 160528" src="https://github.com/user-attachments/assets/27cdb5d0-430d-4145-b56b-6e703956fe25" />
 
 Calculation:
-
 a.   KVL:
  
 $$V=V_{1}+V_{2}+V_{3}$$
@@ -73,9 +68,7 @@ $$V_{3}=IR_{3}=0.556\times100=55.6 V$$
 
 $$100V=16.68V+27.8V+55.6V$$
 $$100V=100V$$
-
 $$Hence Proved$$
-
 b.  KCL:
 
 $$I_{30\Omega}=I_{50\Omega}+I_{100\Omega}$$
@@ -97,8 +90,6 @@ $$I_{50\Omega}=52.63/50=1.05A$$
 $$I_{100\Omega}=52.63/100=0.53A$$
 
 $$Hence  Proved$$
-
-
 Tabulation:
 
 a.   KVL:
@@ -113,7 +104,6 @@ b.  KCL:
 |--------------|----------------------|----------------------|-----------------------|-------------------|
 | Theoretical  | 1.58A                | 1.05A                | 0.53A                 | 52.63V            |
 | Practical    | 1.58A                | 1.05A                | 0.53A                 | 56.63V            |
-
 
 RESULT:
 
