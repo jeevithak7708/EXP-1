@@ -66,6 +66,7 @@ $$V_{3}=IR_{3}=0.556\times100=55.6 V$$
 
 $$100V=16.68V+27.8V+55.6V$$
 $$100V=100V$$
+
 $$Hence Proved$$
 b.  KCL:
 
@@ -88,6 +89,7 @@ $$I_{50\Omega}=52.63/50=1.05A$$
 $$I_{100\Omega}=52.63/100=0.53A$$
 
 $$Hence  Proved$$
+
 Tabulation:
 
 a.   KVL:
